@@ -34,7 +34,7 @@ Users may either specify input values via the command line or provide an input f
 ```bash
 leo run <function_name> <input_1> <input_2> ...
 ```
-See `./run.sh` for an example.
+See `./tictactoe.sh` for an example.
 
 
 ### Using an input file.
